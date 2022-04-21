@@ -1,7 +1,7 @@
 # PLUS_softwaredev_2022
 ##### Software dev outputs (Arellano,CM)
 
-## Contents
+## Table of Contents
 ### A0: github acc
 - https://github.com/cmmarellano/
 ### A1: git
