@@ -13,7 +13,9 @@
 - [fork4](https://github.com/cmmarellano/PLUS_softwaredev_2022-1)
 ### A2: git, conda, notebook, env
 - Jupyter Notebook 
+   
    -[Python review basics jupyter ntbk](https://github.com/cmmarellano/PLUS_softwaredev_2022/blob/main/Python_Basics_Review.ipynb)
+   
    -[sample jupyter ntbk](https://github.com/cmmarellano/PLUS_softwaredev_2022/blob/main/notebook_test.ipynb) 
 - Virtual Environment (on another repo!) 
   - repo location and documentation : [https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment)
