@@ -23,4 +23,5 @@
 ### A3: geo-specific task
 - geospecific task: LULC Classification using Tensorflow, Keras modules
   - [A3 notebook: *A3_geopython_Arellano*](https://github.com/cmmarellano/PLUS_softwaredev_2022/blob/main/A3_geopython_Arellano.ipynb)
-- virtual env used: [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment) from A2
+- virtual env used:
+  - env from A2 [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment) 
