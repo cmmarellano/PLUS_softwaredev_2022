@@ -20,3 +20,4 @@
   - final environment.yml :  [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment/blob/main/Py37_mldl.yml)
   - final requirements.txt : [Py37_mldl_requirements.txt](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment/blob/main/Py37_mldl_requirements.txt)
   - commit on others env: [environment_fromCarla.yml](https://github.com/cmmarellano/PLUS_softwaredev_2022-3/blob/main/environment_fromCarla.yml)
+### A3: geo-spcific task
