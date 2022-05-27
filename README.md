@@ -20,4 +20,7 @@
   - final environment.yml :  [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment/blob/main/Py37_mldl.yml)
   - final requirements.txt : [Py37_mldl_requirements.txt](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment/blob/main/Py37_mldl_requirements.txt)
   - commit on others env: [environment_fromCarla.yml](https://github.com/cmmarellano/PLUS_softwaredev_2022-3/blob/main/environment_fromCarla.yml)
-### A3: geo-spcific task
+### A3: geo-specific task
+- geospecific task: LULC Classification using Tensorflow, Keras modules
+  - [A3 notebook: *A3_geopython_Arellano*](https://github.com/cmmarellano/PLUS_softwaredev_2022/blob/main/A3_geopython_Arellano.ipynb)
+- virtual env used: [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment) from A2
