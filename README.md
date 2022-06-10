@@ -25,3 +25,7 @@
   - [A3 notebook: *A3_geopython_Arellano*](https://github.com/cmmarellano/PLUS_softwaredev_2022/blob/main/A3_geopython_Arellano.ipynb)
 - virtual env used:
   - env from A2 [Py37_mldl.yml](https://github.com/cmmarellano/PLUS_SoftwareDev2022_environment) 
+## FinalProject: Geo Application
+- Proposal: _“Open Routing in Python”: Building a Routing application using Folium, Geopy, and Open Routes Service API_
+- members: [cmmarellano](https://www.github.com/cmmarellano), [adken](https://www.github.com/adken)
+- repo: [Final Project repository](https://github.com/cmmarellano/PLUS_softwaredev_2022_FinalProject)
